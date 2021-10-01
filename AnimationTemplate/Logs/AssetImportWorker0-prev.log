@@ -15,11 +15,11 @@ C:/Users/Student/Desktop/AnimationTemplate
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-8467
+8675
 Successfully changed project path to: C:/Users/Student/Desktop/AnimationTemplate
 C:/Users/Student/Desktop/AnimationTemplate
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 24.13 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 21.66 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.9f1 (108be757e447)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
@@ -35,657 +35,281 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56156
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001478 seconds.
+Registered in 0.001477 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 22.09 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 24.00 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.919 seconds
+- Completed reload, in  0.869 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000542 seconds.
+Registered in 0.000549 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.744 seconds
+- Completed reload, in  0.727 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 57.1 MB.
-System memory in use after: 57.1 MB.
+System memory in use after: 57.2 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
-Total: 1.582100 ms (FindLiveObjects: 0.106400 ms CreateObjectMapping: 0.028300 ms MarkObjects: 1.381900 ms  DeleteObjects: 0.064600 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(69dacd4c4ad57b941b0fd3d42ecbbc0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(69dacd4c4ad57b941b0fd3d42ecbbc0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35703f95e4d28f14a390a2ab5c100871') in 0.002913 seconds
-  Import took 0.004335 seconds .
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 1.556400 ms (FindLiveObjects: 0.108400 ms CreateObjectMapping: 0.027600 ms MarkObjects: 1.350500 ms  DeleteObjects: 0.069000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.467102 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.001464 seconds
-  Import took 0.003170 seconds .
+  path: Assets/YbotAnimationsFull/New Animator Controller.controller
+  artifactKey: Guid(94b087b510701c042afc3e126b588243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/New Animator Controller.controller using Guid(94b087b510701c042afc3e126b588243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de9575e7f56595520030f865052181c') in 0.024051 seconds
+  Import took 0.025559 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.008911 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.001417 seconds
-  Import took 0.003955 seconds .
+  Time since last request: 42.633856 seconds.
+  path: Assets/YbotAnimationsFull/PlayerAnimator.controller
+  artifactKey: Guid(94b087b510701c042afc3e126b588243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/PlayerAnimator.controller using Guid(94b087b510701c042afc3e126b588243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069be60efb03ab66dc0d3d33b2345be2') in 0.001696 seconds
+  Import took 0.003736 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.858276 seconds.
-  path: Assets/YbotAnimationsFull
-  artifactKey: Guid(ee3be1803bf4863409447ddfc7059574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull using Guid(ee3be1803bf4863409447ddfc7059574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac7896ed83f5b8e342a60094a645611f') in 0.036309 seconds
-  Import took 0.038132 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.053765 seconds.
+  Time since last request: 645.923703 seconds.
   path: Assets/YbotAnimationsFull/RunBackLeft.fbx
   artifactKey: Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd609ca14266ca1c5a47a548acba1d7a9') in 0.083758 seconds
-  Import took 0.085782 seconds .
+Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b34311c0d0c1de4f503b63cfe0e068') in 0.023142 seconds
+  Import took 0.025758 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000262 seconds.
+  Time since last request: 13.253695 seconds.
   path: Assets/YbotAnimationsFull/RunBackRight.fbx
   artifactKey: Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed9bc9ee369311107a9ecdd3b9c9f90') in 0.004324 seconds
-  Import took 0.006140 seconds .
+Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b01645fdcaf2ceb7f10350cb74bcf7') in 0.004539 seconds
+  Import took 0.006666 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000277 seconds.
+  Time since last request: 75.360677 seconds.
   path: Assets/YbotAnimationsFull/RunBackWard.fbx
   artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b5fe5ff8ae1f9a3db8362802ba0df7') in 0.004635 seconds
-  Import took 0.006402 seconds .
+Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f088577394e738110fe7d4e1a1fb2bc') in 0.005963 seconds
+  Import took 0.008477 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/YbotAnimationsFull/RunLeft.fbx
-  artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269978b5aad27d6dc83bf63ddd39e1ae') in 0.005001 seconds
-  Import took 0.007148 seconds .
+  Time since last request: 10.449920 seconds.
+  path: Assets/YbotAnimationsFull/RunForward.fbx
+  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a6327702a6aee17d38ebd25d464638') in 0.005445 seconds
+  Import took 0.007502 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000238 seconds.
-  path: Assets/YbotAnimationsFull/RunForwardRight.fbx
-  artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc4dd37c351aed0dae8eb0ef745982f') in 0.004831 seconds
-  Import took 0.006605 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
+  Time since last request: 8.135278 seconds.
   path: Assets/YbotAnimationsFull/RunForwardLeft.fbx
   artifactKey: Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6078ceaaf1cf83eda19f8cec9b9d239e') in 0.004728 seconds
-  Import took 0.006478 seconds .
+Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7d912d66cb7e01892ce7b946edd639') in 0.004696 seconds
+  Import took 0.006700 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000257 seconds.
+  Time since last request: 10.839973 seconds.
+  path: Assets/YbotAnimationsFull/RunForwardRight.fbx
+  artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e44b9198f8b67284dae8e87a986ad72') in 0.004517 seconds
+  Import took 0.006567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.414758 seconds.
+  path: Assets/YbotAnimationsFull/RunRight.fbx
+  artifactKey: Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0cf2f114dd200b720db8ab01e59667f') in 0.004366 seconds
+  Import took 0.006448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.484237 seconds.
+  path: Assets/YbotAnimationsFull/İdle.fbx
+  artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adcc8db711f3854a257d3137b3ffdc5d') in 0.004914 seconds
+  Import took 0.006939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.957939 seconds.
+  path: Assets/YbotAnimationsFull/RunLeft.fbx
+  artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449c7c64ec10190d72f869184d33d658') in 0.004904 seconds
+  Import took 0.007195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 364.678786 seconds.
   path: Assets/YbotAnimationsFull/ybot.fbx
   artifactKey: Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/ybot.fbx using Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dbbe6bbc1815a8f6fc489055b303ad2') in 0.581412 seconds
-  Import took 0.583464 seconds .
+Start importing Assets/YbotAnimationsFull/ybot.fbx using Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c29cb605a99b0f3a38aebf78606ed06') in 0.201158 seconds
+  Import took 0.203578 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000237 seconds.
+  Time since last request: 104.600695 seconds.
+  path: Assets/YbotAnimationsFull/RunBackLeft.fbx
+  artifactKey: Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72356fa5b5e5b8df2d1679ca33f751ca') in 0.005321 seconds
+  Import took 0.007989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.543373 seconds.
+  path: Assets/YbotAnimationsFull/RunBackRight.fbx
+  artifactKey: Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e9f00ee3de0795ab3e7ec234a02601') in 0.004603 seconds
+  Import took 0.006780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.752205 seconds.
+  path: Assets/YbotAnimationsFull/RunBackWard.fbx
+  artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c07f33018eb2208b14c715ebc33e8a') in 0.004669 seconds
+  Import took 0.006840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.049744 seconds.
   path: Assets/YbotAnimationsFull/RunForward.fbx
   artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfd835571e003a90a122f5b7fc1299b0') in 0.004779 seconds
-  Import took 0.006535 seconds .
+Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd07c2359109258ede95279fe45979825') in 0.004821 seconds
+  Import took 0.007037 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/YbotAnimationsFull/İdle.fbx
-  artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39e452b3ead351ad0572303a9a46a46') in 0.004983 seconds
-  Import took 0.006797 seconds .
+  Time since last request: 8.987713 seconds.
+  path: Assets/YbotAnimationsFull/RunForwardLeft.fbx
+  artifactKey: Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528ff3d3356bb8a115f080a04894a362') in 0.004627 seconds
+  Import took 0.007109 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000253 seconds.
+  Time since last request: 4.878336 seconds.
+  path: Assets/YbotAnimationsFull/RunForwardRight.fbx
+  artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf7d6958990cf9b3b1412eeb21b7c7c') in 0.004621 seconds
+  Import took 0.006843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.945256 seconds.
+  path: Assets/YbotAnimationsFull/RunLeft.fbx
+  artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bb1d4a40b827a7e23470465001c3419') in 0.004569 seconds
+  Import took 0.006828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.589703 seconds.
   path: Assets/YbotAnimationsFull/RunRight.fbx
   artifactKey: Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '928a64fa0e9c021b1da7aac6ebad522c') in 0.004563 seconds
-  Import took 0.006260 seconds .
+Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1e9aa2295e19c25dae6b6957d4f438') in 0.004581 seconds
+  Import took 0.006842 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 134.826653 seconds.
+  Time since last request: 4.908112 seconds.
+  path: Assets/YbotAnimationsFull/İdle.fbx
+  artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735e99955fc3eb15a9c4425488f851b7') in 0.004764 seconds
+  Import took 0.007263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.384438 seconds.
   path: Assets/YbotAnimationsFull/ybot.fbx
   artifactKey: Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/ybot.fbx using Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e225c8ba2719185ae7f1ab389253ea04') in 0.097563 seconds
-  Import took 0.100024 seconds .
+Start importing Assets/YbotAnimationsFull/ybot.fbx using Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a559d7a8c92b5bb298b35830fbe9d739') in 0.040941 seconds
+  Import took 0.043841 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 101.494521 seconds.
-  path: Assets/YbotAnimationsFull/RunBackLeft 1.fbx
-  artifactKey: Guid(79a99bfea105f9542b53f6656b1431ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft 1.fbx using Guid(79a99bfea105f9542b53f6656b1431ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d69bb57b42525a2622015a3de769bea') in 0.005688 seconds
-  Import took 0.008200 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/YbotAnimationsFull/RunBackRight 1.fbx
-  artifactKey: Guid(872bbc9ca5740574a9fe1ba8fbbed7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight 1.fbx using Guid(872bbc9ca5740574a9fe1ba8fbbed7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad85979ba5a96993715b3a078162edb') in 0.004136 seconds
-  Import took 0.005892 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/YbotAnimationsFull/RunForward 1.fbx
-  artifactKey: Guid(cbffb1059fb26dc4aa80dc8366b663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward 1.fbx using Guid(cbffb1059fb26dc4aa80dc8366b663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c375d8a959bbbaebf64efe62b1a69785') in 0.004323 seconds
-  Import took 0.005869 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/YbotAnimationsFull/RunBackWard 1.fbx
-  artifactKey: Guid(236c117c8b78f3041a859b50c0331e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard 1.fbx using Guid(236c117c8b78f3041a859b50c0331e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47931226cab7950b09ece020454fe3a2') in 0.003615 seconds
-  Import took 0.005142 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 54.096382 seconds.
-  path: Assets/YbotAnimationsFull/RunBackLeft 1.fbx
-  artifactKey: Guid(79a99bfea105f9542b53f6656b1431ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft 1.fbx using Guid(79a99bfea105f9542b53f6656b1431ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c537ab28e42dffc5774707dba11860') in 0.004537 seconds
-  Import took 0.006711 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/YbotAnimationsFull/RunBackRight.fbx
-  artifactKey: Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c62d5261bfc9f3513fc665740ed63e') in 0.003864 seconds
-  Import took 0.005602 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/YbotAnimationsFull/RunBackWard.fbx
-  artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54028b02f12e5bfb5a1faf866a355105') in 0.003862 seconds
-  Import took 0.005580 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/YbotAnimationsFull/RunLeft.fbx
-  artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3885a81ea9fc5d60fa47dd35cea0431') in 0.003783 seconds
-  Import took 0.005430 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/YbotAnimationsFull/RunBackRight 1.fbx
-  artifactKey: Guid(872bbc9ca5740574a9fe1ba8fbbed7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight 1.fbx using Guid(872bbc9ca5740574a9fe1ba8fbbed7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80156e867d1c8de60aae6515700bb7de') in 0.003821 seconds
-  Import took 0.005502 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/YbotAnimationsFull/RunForwardRight.fbx
-  artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f69d5e09cfbf959ea09140d82fa41204') in 0.003786 seconds
-  Import took 0.005399 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/YbotAnimationsFull/RunForwardLeft.fbx
-  artifactKey: Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac83f835576d36bf2f9fcdf6358fe789') in 0.004747 seconds
-  Import took 0.006576 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/YbotAnimationsFull/RunForward.fbx
-  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96cdddc1c1dac37ac6292a7eb1b50a38') in 0.004311 seconds
-  Import took 0.006214 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/YbotAnimationsFull/İdle.fbx
-  artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d17b74527a22b51baaf52ea044e8517') in 0.005087 seconds
-  Import took 0.006997 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
+  Time since last request: 55.881560 seconds.
   path: Assets/YbotAnimationsFull/RunBackLeft.fbx
   artifactKey: Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6714274a5c82095b94660cae377089fb') in 0.004568 seconds
-  Import took 0.006596 seconds .
+Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4d6fa5deecf11ff32fa914875f9549') in 0.004877 seconds
+  Import took 0.007697 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/YbotAnimationsFull/RunForward 1.fbx
-  artifactKey: Guid(cbffb1059fb26dc4aa80dc8366b663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward 1.fbx using Guid(cbffb1059fb26dc4aa80dc8366b663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6d613d96ada156e6fcca9ba9512ae41') in 0.004301 seconds
-  Import took 0.006469 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/YbotAnimationsFull/RunRight.fbx
-  artifactKey: Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da07f9a9d904d400544439a5c2398af9') in 0.004236 seconds
-  Import took 0.006241 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/YbotAnimationsFull/RunBackWard 1.fbx
-  artifactKey: Guid(236c117c8b78f3041a859b50c0331e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard 1.fbx using Guid(236c117c8b78f3041a859b50c0331e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd091a44ade209943cba679128cfa2675') in 0.004354 seconds
-  Import took 0.006445 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.647360 seconds.
-  path: Assets/YbotAnimationsFull/RunBackLeft 1.fbx
-  artifactKey: Guid(79a99bfea105f9542b53f6656b1431ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft 1.fbx using Guid(79a99bfea105f9542b53f6656b1431ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7ccfe706e00c8560a2948c39c0a828') in 0.004670 seconds
-  Import took 0.007043 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
+  Time since last request: 8.933805 seconds.
   path: Assets/YbotAnimationsFull/RunBackRight.fbx
   artifactKey: Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66196396d165f85f6552e0cf73c42cc8') in 0.004225 seconds
-  Import took 0.014258 seconds .
+Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f08503a4976e50784b7b3737bf3a5fb') in 0.004758 seconds
+  Import took 0.007289 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/YbotAnimationsFull/RunBackWard.fbx
-  artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '001bdd05c5ce3e894c57903ca9d70a78') in 0.004429 seconds
-  Import took 0.006627 seconds .
+  Time since last request: 4.942888 seconds.
+  path: Assets/YbotAnimationsFull/RunForward.fbx
+  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e05637251220a96e9fdc299cd4be44') in 0.004390 seconds
+  Import took 0.006646 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/YbotAnimationsFull/RunLeft.fbx
-  artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66665020419c2319d43a96ee3de57d1') in 0.003791 seconds
-  Import took 0.005626 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/YbotAnimationsFull/RunBackRight 1.fbx
-  artifactKey: Guid(872bbc9ca5740574a9fe1ba8fbbed7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight 1.fbx using Guid(872bbc9ca5740574a9fe1ba8fbbed7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0279978d78110e8e5689c634a43bcf42') in 0.003851 seconds
-  Import took 0.005772 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/YbotAnimationsFull/RunForwardRight.fbx
-  artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97bfbdca100bc065e953ecee990db1ff') in 0.003889 seconds
-  Import took 0.006340 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000268 seconds.
+  Time since last request: 5.455750 seconds.
   path: Assets/YbotAnimationsFull/RunForwardLeft.fbx
   artifactKey: Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bb69b51b0dbb1c441fcd201151c309d') in 0.004466 seconds
-  Import took 0.006551 seconds .
+Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b725087d8458fee352a4737325b1557') in 0.004547 seconds
+  Import took 0.006632 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000179 seconds.
-  path: Assets/YbotAnimationsFull/RunForward.fbx
-  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc5202b5b1f852be33064ab09e61eac') in 0.006866 seconds
-  Import took 0.010285 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000567 seconds.
-  path: Assets/YbotAnimationsFull/İdle.fbx
-  artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5f66e0e2282f08b06196f7ee229a1b') in 0.006428 seconds
-  Import took 0.009458 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/YbotAnimationsFull/RunBackLeft.fbx
-  artifactKey: Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a41dbfb428108509d4228b5e49bff20') in 0.004869 seconds
-  Import took 0.007499 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/YbotAnimationsFull/RunForward 1.fbx
-  artifactKey: Guid(cbffb1059fb26dc4aa80dc8366b663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward 1.fbx using Guid(cbffb1059fb26dc4aa80dc8366b663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cae40bb63a9d0795b813333135ae80a') in 0.004134 seconds
-  Import took 0.006279 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/YbotAnimationsFull/RunRight.fbx
-  artifactKey: Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030b62005ec8298374d6fc8b4512c833') in 0.003680 seconds
-  Import took 0.005374 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/YbotAnimationsFull/RunBackWard 1.fbx
-  artifactKey: Guid(236c117c8b78f3041a859b50c0331e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard 1.fbx using Guid(236c117c8b78f3041a859b50c0331e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e02fd4408e5fa001801af269324a87') in 0.004167 seconds
-  Import took 0.005977 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 51.614702 seconds.
-  path: Assets/YbotAnimationsFull/RunBackLeft 1.fbx
-  artifactKey: Guid(79a99bfea105f9542b53f6656b1431ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft 1.fbx using Guid(79a99bfea105f9542b53f6656b1431ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd117761606589693eb7e3a2ba600272b') in 0.004371 seconds
-  Import took 0.006560 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/YbotAnimationsFull/RunBackRight.fbx
-  artifactKey: Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e8c8e6253f756ba9be8660f2634a2d') in 0.004069 seconds
-  Import took 0.005823 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/YbotAnimationsFull/RunBackWard.fbx
-  artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e38389c52a3efc02ffa09b0a13f09c') in 0.003656 seconds
-  Import took 0.005424 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/YbotAnimationsFull/RunLeft.fbx
-  artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8613d76eb3ecbbacaadea36c68fda353') in 0.003326 seconds
-  Import took 0.004824 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000173 seconds.
-  path: Assets/YbotAnimationsFull/RunBackRight 1.fbx
-  artifactKey: Guid(872bbc9ca5740574a9fe1ba8fbbed7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight 1.fbx using Guid(872bbc9ca5740574a9fe1ba8fbbed7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e86099debef56a8eeb1ba47c99aea49c') in 0.003497 seconds
-  Import took 0.005065 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
+  Time since last request: 3.698527 seconds.
   path: Assets/YbotAnimationsFull/RunForwardRight.fbx
   artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790e9921909a015fd92b5658f38cb922') in 0.004213 seconds
-  Import took 0.006401 seconds .
+Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5218efd94fa87f7976dadc4b581fa94') in 0.004862 seconds
+  Import took 0.007128 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/YbotAnimationsFull/RunForwardLeft.fbx
-  artifactKey: Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e52c17ba1a6a62d6481072ac074502') in 0.004140 seconds
-  Import took 0.006105 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/YbotAnimationsFull/RunForward.fbx
-  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431c9e1ac569b859229f0a649b5d96b9') in 0.004351 seconds
-  Import took 0.006097 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/YbotAnimationsFull/İdle.fbx
-  artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de05907c15e9993093544e0fd66ce84') in 0.004315 seconds
-  Import took 0.006016 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/YbotAnimationsFull/RunBackLeft.fbx
-  artifactKey: Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207dd06874f220eb9ee7cb1351a4c122') in 0.003612 seconds
-  Import took 0.005182 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/YbotAnimationsFull/RunForward 1.fbx
-  artifactKey: Guid(cbffb1059fb26dc4aa80dc8366b663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward 1.fbx using Guid(cbffb1059fb26dc4aa80dc8366b663c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce1d5d5f2cc4f41f39b6abbe6a7c8a2') in 0.003727 seconds
-  Import took 0.005313 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/YbotAnimationsFull/RunRight.fbx
-  artifactKey: Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c76b9586e76ad41de52f8a2ade6140f') in 0.003562 seconds
-  Import took 0.005118 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/YbotAnimationsFull/RunBackWard 1.fbx
-  artifactKey: Guid(236c117c8b78f3041a859b50c0331e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard 1.fbx using Guid(236c117c8b78f3041a859b50c0331e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0cf2ab0e2f15f7203b6ab90777f780') in 0.003475 seconds
-  Import took 0.005421 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 98.951084 seconds.
-  path: Assets/YbotAnimationsFull/RunBackLeft.fbx
-  artifactKey: Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3adb21e34e1b8f973fa0aabe0e2947d') in 0.004265 seconds
-  Import took 0.006464 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/YbotAnimationsFull/RunBackRight.fbx
-  artifactKey: Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1785ac3dcf20eb4bc1ebb10f5b5fb66') in 0.003509 seconds
-  Import took 0.005250 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/YbotAnimationsFull/RunBackWard.fbx
-  artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '504cb106d24e5a455ab117a16d4561b9') in 0.003305 seconds
-  Import took 0.004944 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
+  Time since last request: 3.624032 seconds.
   path: Assets/YbotAnimationsFull/RunLeft.fbx
   artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cff951a1d9318481760e927dd71a409') in 0.003695 seconds
-  Import took 0.005222 seconds .
+Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7303fca43d785dbb6f6f577c748dec') in 0.004464 seconds
+  Import took 0.006613 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/YbotAnimationsFull/RunForwardRight.fbx
-  artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f92d2a304762f10a4c0a41489963f28') in 0.002875 seconds
-  Import took 0.004453 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/YbotAnimationsFull/RunForwardLeft.fbx
-  artifactKey: Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1bfeb86f954835e788327774c2f2db') in 0.002939 seconds
-  Import took 0.004420 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/YbotAnimationsFull/RunForward.fbx
-  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d92b95d0774965c43c3b2d530d5fa8c') in 0.003303 seconds
-  Import took 0.004842 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/YbotAnimationsFull/İdle.fbx
-  artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b6905cf1f14a27ace5af9e3a69754ff') in 0.002948 seconds
-  Import took 0.004607 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
+  Time since last request: 4.233702 seconds.
   path: Assets/YbotAnimationsFull/RunRight.fbx
   artifactKey: Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1b82da814bd0fdffccc83e69780708') in 0.004182 seconds
-  Import took 0.006122 seconds .
+Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70eb8c38049b3a0598b8f0b8782b9ea4') in 0.004818 seconds
+  Import took 0.007360 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.907864 seconds.
-  path: Assets/YbotAnimationsFull/RunForward.fbx
-  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac200f26ebfbb7547aefbb48838af1d8') in 0.004009 seconds
-  Import took 0.005954 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.021983 seconds.
-  path: Assets/YbotAnimationsFull/RunForward.fbx
-  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac200f26ebfbb7547aefbb48838af1d8') in 0.004129 seconds
-  Import took 0.006835 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005614 seconds.
-  path: Assets/YbotAnimationsFull/RunBackLeft.fbx
-  artifactKey: Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a6fb4a21f0f2c058a14c4aa9b0143e') in 0.004351 seconds
-  Import took 0.006314 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/YbotAnimationsFull/RunBackRight.fbx
-  artifactKey: Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b12fc0a70826e9773afa3147051b0d58') in 0.004261 seconds
-  Import took 0.006504 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/YbotAnimationsFull/RunBackWard.fbx
-  artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14663029efd546a9d6690ebb9f576fef') in 0.003862 seconds
-  Import took 0.005762 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/YbotAnimationsFull/RunLeft.fbx
-  artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0810c3a2f78444f627081d1563b1dc48') in 0.003372 seconds
-  Import took 0.004899 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/YbotAnimationsFull/RunForwardRight.fbx
-  artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464e76eaea413227d401f54faa10213c') in 0.003456 seconds
-  Import took 0.004987 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/YbotAnimationsFull/RunForwardLeft.fbx
-  artifactKey: Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8543c178554cedd11926f34d9f834c40') in 0.003505 seconds
-  Import took 0.005093 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
+  Time since last request: 5.075226 seconds.
   path: Assets/YbotAnimationsFull/İdle.fbx
   artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ec695d7c99c512d23f6bb047b5e88e') in 0.004269 seconds
-  Import took 0.005884 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/YbotAnimationsFull/RunRight.fbx
-  artifactKey: Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498010e49c1b8239a7f89805743e9536') in 0.004412 seconds
-  Import took 0.006803 seconds .
+Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91417307509372f7e91a3c5ba47ac7c5') in 0.004504 seconds
+  Import took 0.007135 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000485 seconds.
+Registered in 0.000477 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
@@ -693,21 +317,449 @@ Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.681 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 74.2 MB.
 System memory in use after: 74.3 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1605.
-Total: 1.429100 ms (FindLiveObjects: 0.107700 ms CreateObjectMapping: 0.028300 ms MarkObjects: 1.251700 ms  DeleteObjects: 0.040600 ms)
+Total: 2.791000 ms (FindLiveObjects: 0.310000 ms CreateObjectMapping: 0.096500 ms MarkObjects: 2.329400 ms  DeleteObjects: 0.053500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 213.795236 seconds.
-  path: Assets/YbotAnimationsFull/New Animator Controller.controller
+  Time since last request: 363.947926 seconds.
+  path: Assets/YbotAnimationsFull/RunForwardRight.fbx
+  artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275e61e6d0d6f684e87007a5cd3b7ff9') in 0.023505 seconds
+  Import took 0.025941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.355448 seconds.
+  path: Assets/YbotAnimationsFull/RunBackLeft.fbx
+  artifactKey: Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05864ca773af7ecb52fd1c29e0b3a945') in 0.004220 seconds
+  Import took 0.006370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.564716 seconds.
+  path: Assets/YbotAnimationsFull/RunBackRight.fbx
+  artifactKey: Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d19951a3ee54337672b3e349c82f08d') in 0.004300 seconds
+  Import took 0.006487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.547945 seconds.
+  path: Assets/YbotAnimationsFull/RunBackWard.fbx
+  artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c30365b895b349ba586d7f4d8ff7cc6') in 0.005309 seconds
+  Import took 0.008019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.270325 seconds.
+  path: Assets/YbotAnimationsFull/RunForward.fbx
+  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427e82a8ef1031e7e4d12ef2862177a7') in 0.004484 seconds
+  Import took 0.006630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.716983 seconds.
+  path: Assets/YbotAnimationsFull/RunForwardLeft.fbx
+  artifactKey: Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5453bd16e4655303d28c79b408e2e14') in 0.004441 seconds
+  Import took 0.006687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.825141 seconds.
+  path: Assets/YbotAnimationsFull/RunLeft.fbx
+  artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b3169aaa6625b7864e31b2a7a48b69c') in 0.004598 seconds
+  Import took 0.006800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.723526 seconds.
+  path: Assets/YbotAnimationsFull/RunRight.fbx
+  artifactKey: Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ada0af25570cb40605fb667a75f38f5') in 0.004123 seconds
+  Import took 0.006234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.960878 seconds.
+  path: Assets/YbotAnimationsFull/ybot.fbx
+  artifactKey: Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/ybot.fbx using Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '039ad62ab417508b5627bcb8e9ee8f75') in 0.094010 seconds
+  Import took 0.096232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.867146 seconds.
+  path: Assets/YbotAnimationsFull/İdle.fbx
+  artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2600da1e9086a6e26ea714d76366bcb2') in 0.005250 seconds
+  Import took 0.007281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.577018 seconds.
+  path: Assets/YbotAnimationsFull/ybot.fbx
+  artifactKey: Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/ybot.fbx using Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d18e91837d6d1e9b085d5842c514a6') in 0.035652 seconds
+  Import took 0.038242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.386061 seconds.
+  path: Assets/YbotAnimationsFull/RunRight.fbx
+  artifactKey: Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunRight.fbx using Guid(9f32d37befaeb874c9162d30e9ac1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac4286b4984073853a798b20383956f') in 0.004599 seconds
+  Import took 0.006702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.926474 seconds.
+  path: Assets/YbotAnimationsFull/RunLeft.fbx
+  artifactKey: Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunLeft.fbx using Guid(302ec4ef2cd76de40bce38c006fb6f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f782ff2093535922103891bb12db68e4') in 0.004227 seconds
+  Import took 0.006309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.491112 seconds.
+  path: Assets/YbotAnimationsFull/RunForwardRight.fbx
+  artifactKey: Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForwardRight.fbx using Guid(6f06b592112e39147a972cb693d90ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e8b8179e79b963a796c68168fb5f8a') in 0.004353 seconds
+  Import took 0.006519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.094658 seconds.
+  path: Assets/YbotAnimationsFull/RunForwardLeft.fbx
+  artifactKey: Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForwardLeft.fbx using Guid(b84e9672e581f704f8c62b9d31b7ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92dcb7281da3649e01565dd7bf9515a4') in 0.004596 seconds
+  Import took 0.006705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.502775 seconds.
+  path: Assets/YbotAnimationsFull/RunForward.fbx
+  artifactKey: Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunForward.fbx using Guid(6b62c065d4b79db4f8bdbb2bbe3d0f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6868534a1cf9a0b3293f9b4a272ab5ac') in 0.004522 seconds
+  Import took 0.006802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.520873 seconds.
+  path: Assets/YbotAnimationsFull/RunBackWard.fbx
+  artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47c0fdc1637334ae951a3e82e939155') in 0.004908 seconds
+  Import took 0.007170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.356602 seconds.
+  path: Assets/YbotAnimationsFull/RunBackRight.fbx
+  artifactKey: Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackRight.fbx using Guid(783817ce8d7008e4bb89572e9d439c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce63f732aa9cc2a743d14c1dfe07a900') in 0.004306 seconds
+  Import took 0.006424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.663975 seconds.
+  path: Assets/YbotAnimationsFull/RunBackLeft.fbx
+  artifactKey: Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackLeft.fbx using Guid(874abfa1a8700724bb89fd276f783e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02338abed6f0e4c37938aed41d9201f3') in 0.004358 seconds
+  Import took 0.006416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 433.949077 seconds.
+  path: Assets/YbotAnimationsFull/ybot.fbx
+  artifactKey: Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/ybot.fbx using Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c80f5da437b14a72ddaafdcf11e215b7') in 0.043663 seconds
+  Import took 0.046144 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000632 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.700 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1609.
+Total: 1.448000 ms (FindLiveObjects: 0.110200 ms CreateObjectMapping: 0.029000 ms MarkObjects: 1.266700 ms  DeleteObjects: 0.041400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.576145 seconds.
+  path: Assets/YbotAnimationsFull/ybot.fbx
+  artifactKey: Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/ybot.fbx using Guid(20370dc5cf456d74187af9d6354b94ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ee8fb26e82ed13ab4094f568fcc71be') in 0.094552 seconds
+  Import took 0.096529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1985.697928 seconds.
+  path: Assets/PlayerMovementController.cs
+  artifactKey: Guid(b4ebd589949922944a864c337374b108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMovementController.cs using Guid(b4ebd589949922944a864c337374b108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a42dbfcf5b0551237b6884f5c98f8182') in 0.003522 seconds
+  Import took 0.005569 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000657 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 1.423000 ms (FindLiveObjects: 0.117700 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.226300 ms  DeleteObjects: 0.046600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000559 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.722 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 1.516400 ms (FindLiveObjects: 0.131700 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.267000 ms  DeleteObjects: 0.085100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 875.451234 seconds.
+  path: Assets/PlayerMovementController.cs
+  artifactKey: Guid(b4ebd589949922944a864c337374b108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMovementController.cs using Guid(b4ebd589949922944a864c337374b108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ab4e796ab537f9fd0143efb57ca3d3') in 0.003042 seconds
+  Import took 0.004744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.176786 seconds.
+  path: Assets/PlayerMovementController.cs
+  artifactKey: Guid(b4ebd589949922944a864c337374b108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMovementController.cs using Guid(b4ebd589949922944a864c337374b108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ab4e796ab537f9fd0143efb57ca3d3') in 0.001441 seconds
+  Import took 0.003189 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000562 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.675 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 1.425900 ms (FindLiveObjects: 0.114800 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.238400 ms  DeleteObjects: 0.039900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000555 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 1.672000 ms (FindLiveObjects: 0.132100 ms CreateObjectMapping: 0.033500 ms MarkObjects: 1.456000 ms  DeleteObjects: 0.049600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 728.501881 seconds.
+  path: Assets/YbotAnimationsFull/PlayerAnimator.controller
   artifactKey: Guid(94b087b510701c042afc3e126b588243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YbotAnimationsFull/New Animator Controller.controller using Guid(94b087b510701c042afc3e126b588243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4423aedd65adee43d582fe81fbe57f6a') in 0.012617 seconds
-  Import took 0.014512 seconds .
+Start importing Assets/YbotAnimationsFull/PlayerAnimator.controller using Guid(94b087b510701c042afc3e126b588243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2241f425d6197344f2873217ad963695') in 0.020843 seconds
+  Import took 0.023104 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.744 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 1.494300 ms (FindLiveObjects: 0.121200 ms CreateObjectMapping: 0.031400 ms MarkObjects: 1.289600 ms  DeleteObjects: 0.051400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.699 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1628.
+Total: 1.467200 ms (FindLiveObjects: 0.121600 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.263300 ms  DeleteObjects: 0.046400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.676 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 1.542600 ms (FindLiveObjects: 0.112200 ms CreateObjectMapping: 0.028800 ms MarkObjects: 1.360500 ms  DeleteObjects: 0.040400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2301.121179 seconds.
+  path: Assets/YbotAnimationsFull/RunBackWard.fbx
+  artifactKey: Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/RunBackWard.fbx using Guid(e0114232940dfb84f8a7ce1630031d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762c98e49fbb5291740fb394d117f3ca') in 0.025804 seconds
+  Import took 0.027971 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000799 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.705 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 1.540400 ms (FindLiveObjects: 0.132100 ms CreateObjectMapping: 0.035000 ms MarkObjects: 1.326400 ms  DeleteObjects: 0.046200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 264.582298 seconds.
+  path: Assets/YbotAnimationsFull/İdle.fbx
+  artifactKey: Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YbotAnimationsFull/İdle.fbx using Guid(cd3f805f38e875b4fa8dcbd2beb6c92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7b2b157115028afe6118bc6f77ef94f') in 0.022057 seconds
+  Import took 0.023982 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000542 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.741 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 1.481100 ms (FindLiveObjects: 0.120800 ms CreateObjectMapping: 0.033700 ms MarkObjects: 1.281200 ms  DeleteObjects: 0.044500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000569 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.672 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1640.
+Total: 1.479500 ms (FindLiveObjects: 0.113400 ms CreateObjectMapping: 0.028500 ms MarkObjects: 1.257500 ms  DeleteObjects: 0.079300 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
